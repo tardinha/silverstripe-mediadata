@@ -6,7 +6,7 @@
  * @author Damian Mooyman
  * @see File
  */
-class MediaDataFileExtension extends DataObjectDecorator
+class MediaDataFileExtension extends DataExtension
 {
     /**
      * Retrieves the extracted media information for this file
